@@ -3,12 +3,32 @@
     <title>Eriks Blogg Gitlab</title>
     <link href="https://erikburk.github.io/feed.xml" rel="self" />
     <link href="https://erikburk.github.io" />
-    <updated>2026-04-13T16:31:07+02:00</updated>
+    <updated>2026-07-11T14:19:49+02:00</updated>
     <author>
         <name>erikburk</name>
     </author>
     <id>https://erikburk.github.io</id>
 
+    <entry>
+        <title>test post 123</title>
+        <author>
+            <name>erikburk</name>
+        </author>
+        <link href="https://erikburk.github.io/test-post-123.html"/>
+        <id>https://erikburk.github.io/test-post-123.html</id>
+
+        <updated>2026-07-11T14:19:49+02:00</updated>
+            <summary type="html">
+                <![CDATA[
+                    test 123
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>test 123</p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>The (pretty) big biking post</title>
         <author>
@@ -871,41 +891,6 @@
 <figure class="gallery__item"><a href="https://erikburk.github.io/media/posts/19/gallery/67.png" data-size="610x913"><img loading="lazy" src="https://erikburk.github.io/media/posts/19/gallery/67-thumbnail.png" alt="" width="610" height="913"></a></figure>
 </div></div>
 <p>Thank you, guys, for reading about our little adventure! I hope it was fun to read through. Love you all xoxo.</p>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>A rather boring week</title>
-        <author>
-            <name>erikburk</name>
-        </author>
-        <link href="https://erikburk.github.io/a-rather-boring-week.html"/>
-        <id>https://erikburk.github.io/a-rather-boring-week.html</id>
-        <media:content url="https://erikburk.github.io/media/posts/18/_MG_9374.JPG" medium="image" />
-            <category term="Montreal"/>
-            <category term="Blogg"/>
-
-        <updated>2025-10-09T01:30:16+02:00</updated>
-            <summary type="html">
-                <![CDATA[
-                        <img src="https://erikburk.github.io/media/posts/18/_MG_9374.JPG" alt="" />
-                    Hello! 3 day late Erik here! Shorter post this week. Last week was rather uninteresting. Except for another nature adventure, I was stressed about school and that was kinda it. At least now I only have two days left until the autumn break, which I&hellip;
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                    <p><img src="https://erikburk.github.io/media/posts/18/_MG_9374.JPG" class="type:primaryImage" alt="" /></p>
-                <p>Hello! 3 day late Erik here!</p>
-<p>Shorter post this week. Last week was rather uninteresting. Except for another nature adventure, I was stressed about school and that was kinda it. At least now I only have two days left until the autumn break, which I will spend only partially studying. Man I love doing more extra courses during my exchange so that I will actually get 30 points.  And also !!! Madeline is coming tomorrow !!!! So, next weeks post will definitely be filled will more fun stuff.</p>
-<p>Okay, the actually cool thing this week: I visisted Mont Tremblant again, but this time the cute village, and through the school exploration student association thingymajig. The info that I got was that you could "visit the small village, and do a short hike". So i dressed accordingly - jeans and a shirt. Turns out, never trust anyone about anything ever again, because that short hike turned out to be 20km in the mountains and took 6 hours to complete. At least I had a small water bottle with me, that could be refilled about halfways. And I got some really beautiful photos of the Canadian autumn. Shout out to Annika Funk for being a Canadian forest ranger, because this is stunning.</p>
-<p>However, I have in fact realized that hiking is kinda not my thing. Maybe it's just the hikes I've done here and that it's too close to Sweden, but it's just walking in the forest. Sure, it's nice and all but that is not anything excotic to me. All the frenchies love it though and always compare it to hiking in France. Maybe that's where I should go hiking instead of the cold country with lots of forest. The view on top is really beautiful and all, but if it takes 6h of walking through the woods to get there - is it really worth it?</p>
-<p>Anyways, hater of grass touching out. See yall next week &lt;3</p>
-<div class="gallery-wrapper"><div class="gallery"  data-is-empty="false" data-translation="Add images" data-columns="2">
-<figure class="gallery__item"><a href="https://erikburk.github.io/media/posts/18/gallery/_MG_9336.JPG" data-size="3984x2656"><img loading="lazy" src="https://erikburk.github.io/media/posts/18/gallery/_MG_9336-thumbnail.JPG" alt="" width="720" height="480"></a></figure>
-<figure class="gallery__item"><a href="https://erikburk.github.io/media/posts/18/gallery/_MG_9346.JPG" data-size="3984x2656"><img loading="lazy" src="https://erikburk.github.io/media/posts/18/gallery/_MG_9346-thumbnail.JPG" alt="" width="720" height="480"></a></figure>
-<figure class="gallery__item"><a href="https://erikburk.github.io/media/posts/18/gallery/_MG_9366.JPG" data-size="3984x2656"><img loading="lazy" src="https://erikburk.github.io/media/posts/18/gallery/_MG_9366-thumbnail.JPG" alt="" width="720" height="480"></a></figure>
-<figure class="gallery__item"><a href="https://erikburk.github.io/media/posts/18/gallery/_MG_9369.JPG" data-size="3984x2656"><img loading="lazy" src="https://erikburk.github.io/media/posts/18/gallery/_MG_9369-thumbnail.JPG" alt="" width="720" height="480"></a></figure>
-</div></div>
             ]]>
         </content>
     </entry>
